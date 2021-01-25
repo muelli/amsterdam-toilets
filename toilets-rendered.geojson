@@ -1,0 +1,1774 @@
+{
+    "type": "FeatureCollection",
+    "name": "Public Toilets of Amsterdam",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8901005,
+                    52.3672732
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Singel tov Bloemenmarkt",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8891493,
+                    52.3674761
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Koningsplein",
+                "wheelchair": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8922245,
+                    52.3662379
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Urilift, overdag niet beschikbaar\r\n\r\ndo - za: 15.30 tot 18.00",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.894844,
+                    52.32908
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.893257,
+                    52.331949
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.898222,
+                    52.3738954
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Oudekerkplein Zuidzijde",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.892418,
+                    52.377073
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Singel tov 43",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.884913,
+                    52.374489
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Westermarkt Prinsengracht - twee krullen",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.889056,
+                    52.37305
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Singel / Raadhuisstraat",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.889527,
+                    52.374247
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Singel tov 167",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.888366,
+                    52.370387
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Singel tov 311",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.894056,
+                    52.378976
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Brouwersgracht / Singel nabij Singelsluis",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.898927,
+                    52.3744599
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Oudekerkplein noordzijde",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.898614,
+                    52.373171
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Oudezijds Achterburgwal tov 78",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.898165,
+                    52.372594
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Oudezijds Achterburgwal / Brandesteeg",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.895535,
+                    52.37145
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Oudezijds Voorburgwal, Prinsenhof / Hotel The Grand",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.889741,
+                    52.364344
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Nieuwe Spiegelgracht - Keizersgracht",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8985926,
+                    52.3639066
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Utrechtse straat",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.880669,
+                    52.379629
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Lindengracht",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.875986,
+                    52.375628
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Eerste Hugo de Groot / Nassaukade",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.877079,
+                    52.368757
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Marnixstraat - Elandsgracht tov bureau van Politie",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8864077,
+                    52.3619656
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Lijnbaansgracht 282",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8961987,
+                    52.3620561
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Amstelveld",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8801871,
+                    52.3812841
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Marnixplantsoen, nabij brug",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5e-06,
+                    -7e-06
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Nieuwe Achtergracht",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.865599,
+                    52.358551
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "nabij het pierenbadje\r\n\r\nGeopend in de lente en (na) zomer, bij m",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.871441,
+                    52.358568
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "nabij openluchtheater\r\n\r\nGeopend in de lente en (na) zomer, bij m",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.886994,
+                    52.354033
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Ruysdaelkade / Govert Flinckstraat",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.886438,
+                    52.35776
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Hobbemakade /  Honthorsstraat - Brandweerkazerne",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8784891,
+                    52.3556197
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Naast het Concertgebouw",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.891672,
+                    52.379406
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Herenmarkt / Brouwersgracht",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9117,
+                    52.370213
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Kadijksplein ",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.913131,
+                    52.3676791
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Kerklaan, nabij ingang Artis",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.918444,
+                    52.364263
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Plantage Middenlaan",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.919499,
+                    52.360286
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Oosterpark",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.856361,
+                    52.3593562
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Derde kostverlorenkade / Vosmaerstraat",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.88422,
+                    52.343586
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Toilet bij kiosk, beheerd door de gemeente\r\n\r\nZie http://parkkiosk.nl/",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9221596,
+                    52.3859899
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Meeuwenlaan / Hamerstraat",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9226885,
+                    52.3903193
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Openbaar toilet bij het pierenbadje.\r\nGerenoveerd in 2019\r\ndi - do - ma - vr - wo - za - zo\r\nAlleen open als pierenbadje ook open is vanaf 24\u00b0C.",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.901691,
+                    52.368393
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Waterlooplein, op de markt ",
+                "wheelchair": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.895913,
+                    52.3652039
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Urilift, overdag niet beschikbaar\r\n\r\ndo - zo: 15.30 - 18.00 uur en 21.00 tot 07.00 de volgende ochtend",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.896845,
+                    52.3661287
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Urilift, overdag niet beschikbaar\r\n\r\ndo - zo: 15.30 - 18.00",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8954766,
+                    52.3670594
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Urilift, overdag niet beschikbaar\r\n\r\ndonderdag - za; 15.30 - 18.00",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.900125,
+                    52.366562
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Urilift, overdag niet beschikbaar\r\n\r\ndo - za : 15.30 - 18.00",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.882882,
+                    52.3638575
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Urilift, overdag niet beschikbaar\r\n\r\ndo - zo: 15.30 - 18.00 uur en 20l.00 - 07.00 volgende ochtend",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5e-06,
+                    -7e-06
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8934875,
+                    52.3244343
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9035317,
+                    52.382193
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Buiksloterwegveer",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8820277,
+                    52.3634865
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Leidseplein",
+                "wheelchair": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8813518,
+                    52.3625169
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Leidse Bosje",
+                "wheelchair": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8262539,
+                    52.3213268
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Toilet van het Bostheater",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8221072,
+                    52.3166049
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "\r\ndi - do - ma - vr - wo - za - zo\r\nGeopend overdag, van 1 maart tot 1 november. In maart, april, september en oktober alleen in de weekenden, van mei t/m augustus de hele week. Bij mooi weer ook &#096;s avonds geopend.",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8166248,
+                    52.3061625
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "\r\ndi - do - ma - vr - wo - za - zo\r\nGeopend overdag, van 1 maart tot 1 november. In maart, april, september en oktober alleen in de weekenden, van mei t/m augustus de hele week. Bij mooi weer ook &#096;s avonds geopend.",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.848586,
+                    52.3243269
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "\r\ndi - do - ma - vr - wo - za - zo\r\nGeopend overdag, van 1 maart tot 1 november. In maart, april, september en oktober alleen in de weekenden, van mei t/m augustus de hele week. Bij mooi weer ook &#096;s avonds geopend.",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8323049,
+                    52.3225465
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "\r\ndi - do - ma - vr - wo - za - zo\r\nGeopend overdag, van 1 maart tot 1 november. In maart, april, september en oktober alleen in de weekenden, van mei t/m augustus de hele week. Bij mooi weer ook &#096;s avonds geopend.",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8950833,
+                    52.3740498
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Beursplein, Fietsenstalling ",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9407446,
+                    52.313939
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Arena, P+R",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8454227,
+                    52.3790543
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "P+R (alleen voor parkeerders)",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8897795,
+                    52.3397914
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Rai, P+R (alleen voor parkeerders)",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8384567,
+                    52.3900274
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "P+R (alleen voor parkeerders)",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8551749,
+                    52.3442985
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Olympisch Stadion, P+R (alleen voor parkeerders)",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8830128,
+                    52.3639823
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Urilift, overdag niet beschikbaar\r\n\r\ndo - zo: 15.30 - 18.00 / 20.00 - 07.00 - 09.00 volgende ochtend\r\n",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9363341,
+                    52.3979671
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Buikslotermeerplein / Het Breed, Taxistandplaats",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8844941,
+                    52.3849388
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Willemspoort, Parkeergarage (alleen voor parkeerders)",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9142123,
+                    52.3780757
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Parkeergarage (alleen voor parkeerders)",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9085967,
+                    52.3697964
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Parkeergarage (alleen voor parkeerders)",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9011132,
+                    52.367343
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Amstel 1, Parkeergarage (alleen voor parkeerders)",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.916837,
+                    52.4078916
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "De Banne, Parkeergarage (alleen voor parkeerders)",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9414335,
+                    52.3103586
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Parkeergarage ",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9456953,
+                    52.3117357
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Parkeergarage ",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9384567,
+                    52.3118156
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Parkeergarage ",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.883717,
+                    52.3623685
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Fietsentstalling Paradiso",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8837277,
+                    52.3623161
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Weteringschans, Urilift\r\n\r\ndo - za: 15.30 - 18.00 uur",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8272194,
+                    52.3201859
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "\r\ndi - do - ma - vr - wo - za - zo\r\nGeopend overdag, van 1 maart tot 1 november. In maart, april, september en oktober alleen in de weekenden, van mei t/m augustus de hele week. Bij mooi weer ook &#096;s avonds geopend.",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8948653,
+                    52.3541525
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Sarphatipark.",
+                "wheelchair": "yes",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8836823,
+                    52.3843261
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Haarlemmerplein",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9939308,
+                    52.3932058
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Dorpsweg Ransdorp naast bushalte kerk",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0251417,
+                    52.4132136
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Dorpsstraat Holysloot - naast bushalte Kerk",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9651542,
+                    52.383637
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Wijkergouw / Schellingwoude Kerk",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.951281,
+                    52.3972997
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Beemesterstraat / IJdoornlaan",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9051671,
+                    52.3652578
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Nieuwe Keizersgracht / Weesperstraat",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9108828,
+                    52.3632137
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Nieuwe Achtergracht / Roetersstraat",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.900597,
+                    52.3732518
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Nieuwmarkt / Geldersekade",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9593508,
+                    52.3721005
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "P+R Zeeburg",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9008357,
+                    52.3678764
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Stadsloket\r\ndi - do - ma - vr - wo\r\nAlle werkdagen geopend van 08:00 tot 18:00 uur en op donderdagen tot 20:00 uur.",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9330607,
+                    52.4010499
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Stadsloket\r\n\r\nAlle werkdagen geopend van 08:00 tot 18:00 uur en op donderdagen tot 20:00 uur.",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9308982,
+                    52.356714
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Stadsloket\r\ndi - do - ma - vr - wo\r\nAlle werkdagen geopend van 08:00 tot 18:00 uur en op donderdagen tot 20:00 uur.",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8938627,
+                    52.3404487
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Stadsloket\r\ndi - do - ma - vr - wo\r\nAlle werkdagen geopend van 08:00 tot 18:00 uur en op donderdagen tot 20:00 uur.",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8451956,
+                    52.3781553
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Stadsloket\r\ndi - do - ma - vr - wo\r\nAlle werkdagen geopend van 08:00 tot 18:00 uur en op donderdagen tot 20:00 uur.",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8066214,
+                    52.3577338
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Stadsloket\r\ndi - do - ma - vr - wo\r\nAlle werkdagen geopend van 08:00 tot 18:00 uur en op donderdagen tot 20:00 uur.",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9565118,
+                    52.3161746
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Stadskantoor\r\n\r\nAlle werkdagen geopend van 08:00 tot 18:00 uur en op donderdagen tot 20:00 uur.",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8908504,
+                    52.3727348
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "\r\ndi - do - ma - vr - wo - za - zo\r\nTijdelijk niet alleen op uitgaansavonden, maar ook overdag beschikbaar vanwege coronamaatregelen",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8953087,
+                    52.3332851
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "\r\n\r\nopeningstijden van de kinderboerderij\r\ngesloten van november - januari\r\nfebruari - maart: 10 -17 uur\r\napril - oktober: 10 -18 uur\r\nalle dagen open tijdens de schoolvakanties",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8933803,
+                    52.3294956
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8920762,
+                    52.3324316
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "MV toiletgebouw\r\n\r\n8.00 uur tot een half uur v\u00f3\u00f3r zonsondergang.\r\n",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8949178,
+                    52.3659519
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Green Pee, urinor met groene uitstraling met planten.\r\ndo - vr - za - zo\r\nalleen tijdens nachtelijke uren",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8948668,
+                    52.366024
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Green Pee, urinor met groene uitstraling met planten.\r\ndo - vr - za - zo\r\nalleen tijdens de nachtelijke uren",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9850632,
+                    52.3106599
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal",
+                "opening_hours": "24/7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8150437,
+                    52.3716071
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Toilet bij de kinderboerderij, openbaar toegankelijk, in beheer bij de gemeente.\r\n\r\nGeopend tijdens openingstijden kinderboerderij",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8922497,
+                    52.3645568
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "Stadsarchief de Bazel\r\ndi - do - ma - vr - wo - za - zo\r\nMaandag t/m vrijdag: 9:00 - 17:00\r\nZaterdag en zondag: 12:00 - 17:00",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9085199,
+                    52.3624259
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "GGD Amsterdam\r\ndi - do - ma - vr - wo\r\nMaandag t/m donderdag 9:00 - 18:00\r\nVrijdag 09:00 - 18:00",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9628306,
+                    52.4210178
+                ]
+            },
+            "properties": {
+                "amenity": "toilet",
+                "access": "yes",
+                "description": "\r\nvr - wo\r\n",
+                "male": "yes",
+                "female": "no",
+                "toilets:disposal": "pitlatrine",
+                "toilets:position": "urinal"
+            }
+        }
+    ]
+}
