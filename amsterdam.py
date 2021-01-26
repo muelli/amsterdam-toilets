@@ -9,7 +9,9 @@ def load_json(fname="toilets.geojson"):
     features = data["features"]
     for feature in features:
         osm_feature = {}
-        osm_feature["geometry"] = feature["geometry"]
+        copy_fields = ("geometry", "id", "type")
+        for k in copy_fields:
+            osm_feature[k] = feature[k]
 
         osm_props = {}
         osm_props["amenity"] = "toilet"

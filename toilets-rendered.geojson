@@ -16,6 +16,8 @@
                     52.3672732
                 ]
             },
+            "id": 3,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -35,6 +37,8 @@
                     52.3674761
                 ]
             },
+            "id": 4,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -51,6 +55,8 @@
                     52.3662379
                 ]
             },
+            "id": 5,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -69,6 +75,8 @@
                     52.32908
                 ]
             },
+            "id": 128,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -85,6 +93,8 @@
                     52.331949
                 ]
             },
+            "id": 129,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -101,6 +111,8 @@
                     52.3738954
                 ]
             },
+            "id": 137,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -120,6 +132,8 @@
                     52.377073
                 ]
             },
+            "id": 142,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -139,6 +153,8 @@
                     52.374489
                 ]
             },
+            "id": 147,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -158,6 +174,8 @@
                     52.37305
                 ]
             },
+            "id": 149,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -177,6 +195,8 @@
                     52.374247
                 ]
             },
+            "id": 150,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -196,6 +216,8 @@
                     52.370387
                 ]
             },
+            "id": 151,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -215,6 +237,8 @@
                     52.378976
                 ]
             },
+            "id": 153,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -234,6 +258,8 @@
                     52.3744599
                 ]
             },
+            "id": 156,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -253,6 +279,8 @@
                     52.373171
                 ]
             },
+            "id": 158,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -272,6 +300,8 @@
                     52.372594
                 ]
             },
+            "id": 159,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -291,6 +321,8 @@
                     52.37145
                 ]
             },
+            "id": 160,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -310,6 +342,8 @@
                     52.364344
                 ]
             },
+            "id": 161,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -329,6 +363,8 @@
                     52.3639066
                 ]
             },
+            "id": 162,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -348,6 +384,8 @@
                     52.379629
                 ]
             },
+            "id": 164,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -367,6 +405,8 @@
                     52.375628
                 ]
             },
+            "id": 166,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -386,6 +426,8 @@
                     52.368757
                 ]
             },
+            "id": 167,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -405,6 +447,8 @@
                     52.3619656
                 ]
             },
+            "id": 170,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -424,6 +468,8 @@
                     52.3620561
                 ]
             },
+            "id": 171,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -443,6 +489,8 @@
                     52.3812841
                 ]
             },
+            "id": 172,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -462,6 +510,8 @@
                     -7e-06
                 ]
             },
+            "id": 174,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -481,6 +531,8 @@
                     52.358551
                 ]
             },
+            "id": 175,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -497,6 +549,8 @@
                     52.358568
                 ]
             },
+            "id": 176,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -513,6 +567,8 @@
                     52.354033
                 ]
             },
+            "id": 179,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -532,6 +588,8 @@
                     52.35776
                 ]
             },
+            "id": 180,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -551,6 +609,8 @@
                     52.3556197
                 ]
             },
+            "id": 181,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -570,6 +630,8 @@
                     52.379406
                 ]
             },
+            "id": 183,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -589,6 +651,8 @@
                     52.370213
                 ]
             },
+            "id": 187,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -608,6 +672,8 @@
                     52.3676791
                 ]
             },
+            "id": 188,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -627,6 +693,8 @@
                     52.364263
                 ]
             },
+            "id": 189,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -646,6 +714,8 @@
                     52.360286
                 ]
             },
+            "id": 190,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -665,6 +735,8 @@
                     52.3593562
                 ]
             },
+            "id": 194,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -684,6 +756,8 @@
                     52.343586
                 ]
             },
+            "id": 198,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -700,6 +774,8 @@
                     52.3859899
                 ]
             },
+            "id": 199,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -719,6 +795,8 @@
                     52.3903193
                 ]
             },
+            "id": 200,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -734,6 +812,8 @@
                     52.368393
                 ]
             },
+            "id": 203,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -750,6 +830,8 @@
                     52.3652039
                 ]
             },
+            "id": 210,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -768,6 +850,8 @@
                     52.3661287
                 ]
             },
+            "id": 211,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -786,6 +870,8 @@
                     52.3670594
                 ]
             },
+            "id": 212,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -804,6 +890,8 @@
                     52.366562
                 ]
             },
+            "id": 213,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -822,6 +910,8 @@
                     52.3638575
                 ]
             },
+            "id": 218,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -840,6 +930,8 @@
                     -7e-06
                 ]
             },
+            "id": 219,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -858,6 +950,8 @@
                     52.3244343
                 ]
             },
+            "id": 226,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -876,6 +970,8 @@
                     52.382193
                 ]
             },
+            "id": 228,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -895,6 +991,8 @@
                     52.3634865
                 ]
             },
+            "id": 229,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -911,6 +1009,8 @@
                     52.3625169
                 ]
             },
+            "id": 230,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -927,6 +1027,8 @@
                     52.3213268
                 ]
             },
+            "id": 237,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -944,6 +1046,8 @@
                     52.3166049
                 ]
             },
+            "id": 238,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -960,6 +1064,8 @@
                     52.3061625
                 ]
             },
+            "id": 239,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -976,6 +1082,8 @@
                     52.3243269
                 ]
             },
+            "id": 240,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -992,6 +1100,8 @@
                     52.3225465
                 ]
             },
+            "id": 241,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1008,6 +1118,8 @@
                     52.3740498
                 ]
             },
+            "id": 246,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1025,6 +1137,8 @@
                     52.313939
                 ]
             },
+            "id": 247,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1040,6 +1154,8 @@
                     52.3790543
                 ]
             },
+            "id": 248,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1055,6 +1171,8 @@
                     52.3397914
                 ]
             },
+            "id": 249,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1070,6 +1188,8 @@
                     52.3900274
                 ]
             },
+            "id": 250,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1085,6 +1205,8 @@
                     52.3442985
                 ]
             },
+            "id": 251,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1100,6 +1222,8 @@
                     52.3639823
                 ]
             },
+            "id": 259,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1118,6 +1242,8 @@
                     52.3979671
                 ]
             },
+            "id": 261,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1137,6 +1263,8 @@
                     52.3849388
                 ]
             },
+            "id": 262,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1152,6 +1280,8 @@
                     52.3780757
                 ]
             },
+            "id": 263,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1167,6 +1297,8 @@
                     52.3697964
                 ]
             },
+            "id": 264,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1182,6 +1314,8 @@
                     52.367343
                 ]
             },
+            "id": 265,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1197,6 +1331,8 @@
                     52.4078916
                 ]
             },
+            "id": 266,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1212,6 +1348,8 @@
                     52.3103586
                 ]
             },
+            "id": 267,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1227,6 +1365,8 @@
                     52.3117357
                 ]
             },
+            "id": 268,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1242,6 +1382,8 @@
                     52.3118156
                 ]
             },
+            "id": 269,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1257,6 +1399,8 @@
                     52.3623685
                 ]
             },
+            "id": 276,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1274,6 +1418,8 @@
                     52.3623161
                 ]
             },
+            "id": 277,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1292,6 +1438,8 @@
                     52.3201859
                 ]
             },
+            "id": 286,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1308,6 +1456,8 @@
                     52.3541525
                 ]
             },
+            "id": 288,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1324,6 +1474,8 @@
                     52.3843261
                 ]
             },
+            "id": 292,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1343,6 +1495,8 @@
                     52.3932058
                 ]
             },
+            "id": 293,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1362,6 +1516,8 @@
                     52.4132136
                 ]
             },
+            "id": 294,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1381,6 +1537,8 @@
                     52.383637
                 ]
             },
+            "id": 295,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1400,6 +1558,8 @@
                     52.3972997
                 ]
             },
+            "id": 296,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1419,6 +1579,8 @@
                     52.3652578
                 ]
             },
+            "id": 298,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1438,6 +1600,8 @@
                     52.3632137
                 ]
             },
+            "id": 299,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1457,6 +1621,8 @@
                     52.3732518
                 ]
             },
+            "id": 300,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1476,6 +1642,8 @@
                     52.3721005
                 ]
             },
+            "id": 305,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1491,6 +1659,8 @@
                     52.3678764
                 ]
             },
+            "id": 310,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1506,6 +1676,8 @@
                     52.4010499
                 ]
             },
+            "id": 311,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1521,6 +1693,8 @@
                     52.356714
                 ]
             },
+            "id": 312,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1536,6 +1710,8 @@
                     52.3404487
                 ]
             },
+            "id": 313,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1551,6 +1727,8 @@
                     52.3781553
                 ]
             },
+            "id": 314,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1566,6 +1744,8 @@
                     52.3577338
                 ]
             },
+            "id": 315,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1581,6 +1761,8 @@
                     52.3161746
                 ]
             },
+            "id": 316,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1596,6 +1778,8 @@
                     52.3727348
                 ]
             },
+            "id": 317,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1612,6 +1796,8 @@
                     52.3332851
                 ]
             },
+            "id": 319,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1628,6 +1814,8 @@
                     52.3294956
                 ]
             },
+            "id": 320,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1644,6 +1832,8 @@
                     52.3324316
                 ]
             },
+            "id": 376,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1660,6 +1850,8 @@
                     52.3659519
                 ]
             },
+            "id": 378,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1678,6 +1870,8 @@
                     52.366024
                 ]
             },
+            "id": 379,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1696,6 +1890,8 @@
                     52.3106599
                 ]
             },
+            "id": 384,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1714,6 +1910,8 @@
                     52.3716071
                 ]
             },
+            "id": 406,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1730,6 +1928,8 @@
                     52.3645568
                 ]
             },
+            "id": 427,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1745,6 +1945,8 @@
                     52.3624259
                 ]
             },
+            "id": 428,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
@@ -1760,6 +1962,8 @@
                     52.4210178
                 ]
             },
+            "id": 430,
+            "type": "Feature",
             "properties": {
                 "amenity": "toilet",
                 "access": "yes",
